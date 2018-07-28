@@ -2,3 +2,8 @@
 	path = enovasi/acs_mercasa
 	url = git@github.com:enovasi/acs_mercasa.git
 	branch = master
+
+[submodule "OCA/account-invoice-reporting"]
+	path = OCA/account-invoice-reporting
+	url = git@github.com:OCA/account-invoice-reporting.git
+	branch = 11.0
