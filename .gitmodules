@@ -1,0 +1,4 @@
+[submodule "enovasi/acs_mercasa"]
+	path = enovasi/acs_mercasa
+	url = git@github.com:enovasi/acs_mercasa.git
+	branch = master
