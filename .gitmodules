@@ -1,0 +1,4 @@
+[submodule "enovasi/acs_serial"]
+	path = enovasi/acs_serial
+	url = git@github.com:enovasi/acs_serial.git
+	branch = master
