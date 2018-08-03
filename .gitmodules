@@ -2,3 +2,6 @@
 	path = enovasi/acs_serial
 	url = git@github.com:enovasi/acs_serial.git
 	branch = master
+[submodule "acs_mercasa"]
+	path = acs_mercasa
+	url = https://github.com/enovasi/acs_mercasa.git
