@@ -1,8 +1,3 @@
-[submodule "enovasi/acs_mercasa"]
-	path = enovasi/acs_mercasa
-	url = git@github.com:enovasi/acs_mercasa.git
-	branch = master
-
 [submodule "enovasi/acs_serial"]
 	path = enovasi/acs_serial
 	url = git@github.com:enovasi/acs_serial.git
